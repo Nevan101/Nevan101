@@ -1,5 +1,3 @@
-Sure! Here’s a sample README in English with badge icons included:
-
 ```markdown
 # 👋 Hi there! I'm a Full Stack Web Developer
 
